@@ -1,0 +1,3 @@
+En cok begenilen urun no: 2
+Ortalamasi: 3.3
+En az begenen aile no: 10
