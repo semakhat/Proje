@@ -1,0 +1,8 @@
+
+- User hagar has logged in on 11/1/2022 09:18:15
+- User hagar has logged out on 11/1/2022 09:18:25
+- User hagar has logged in on 11/1/2022 09:19:14
+- User hagar has logged out on 11/1/2022 09:19:39
+- User hagar has logged in on 11/1/2022 09:20:30
+- User hagar has logged out on 11/1/2022 09:20:59
+- Session terminated on  11/1/2022 09:21:09
